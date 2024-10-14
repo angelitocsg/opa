@@ -1,0 +1,41 @@
+{
+    "items": [
+        {
+            "appid": "myapp1",
+            "apikey": "a9971a3b-4b20-4acd-a8d7-7ed43bd90942",
+            "canal": "CO",
+            "rotas": [
+                "/propostas",
+                "/simulacoes"
+            ],
+            "documentos": [
+                "70383336000166",
+                "51362886000154",
+                "89192235000136"
+            ]
+        },
+        {
+            "appid": "myapp1",
+            "apikey": "729cd4c7-f74b-4cd2-b6b4-7abd7146e525",
+            "canal": "CO",
+            "rotas": [
+                "/propostas"
+            ],
+            "documentos": [
+                "94161814000151",
+                "88176555000130"
+            ]
+        },
+        {
+            "appid": "relatorios",
+            "apikey": "263f716a-a70f-49f5-9e9c-083795922551",
+            "canal": "CO",
+            "rotas": [
+                "/relatorios-producao"
+            ],
+            "documentos": [
+                "28960032000158"
+            ]
+        }
+    ]
+}
